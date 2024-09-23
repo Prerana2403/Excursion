@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #111;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.container {
+    max-width:900px;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.download-link {
+    color: #0af;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.phone-image img {
+    width: 200px;
+    margin: 20px auto;
+}
+
+.description {
+    margin-top: 30px;
+}
+
+.description h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.description p {
+    font-size: 1rem;
+    color: #bbb;
+}
+
+.tent-image img {
+    width: 100%;
+    margin-top: 20px;
+}
+
+footer {
+    margin-top: 40px;
+}
+
+footer h3 {
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+
+footer p {
+    font-size: 0.9rem;
+    color: #777;
+    margin-top: 10px;
+}
