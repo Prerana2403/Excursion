@@ -5,16 +5,18 @@
 }
 
 body {
-    background-color: #111;
-    color: #fff;
+    background-color: #111; /* Black background */
+    color: #fff; /* White text */
     font-family: Arial, sans-serif;
-    text-align: center;
+    text-align: center; /* Center the text */
     padding: 20px;
+    min-height: 100vh; /* Ensure the body covers the full screen */
 }
 
 .container {
-    max-width:900px;
-    margin: 0 auto;
+    max-width: 900px;
+    margin: 0 auto; /* Center the container */
+    text-align: center; /* Center the text inside the container */
 }
 
 header h1 {
